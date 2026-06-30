@@ -9,3 +9,4 @@ Notes for Microsoft AB-620 Exam
 
 ## Notes
 
+- [AI Fundamentals](01-ai-fundamentals)
